@@ -1,0 +1,178 @@
+\documentclass[12pt,oneside]{book}
+\usepackage{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{fourier}
+\usepackage[a4paper]{geometry}
+\usepackage{geometry} % - pozwala na ustawienie parametrów strony poprzez
+\geometry{verbose,a4paper,tmargin=2.5cm,bmargin=2.9cm,lmargin=5.2cm,rmargin=1.7cm}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancypagestyle{mainmatter}{
+%\rhead{Program konferencji}
+\lhead{IV Ogólnopolska Konferencja Klimatologiczna}
+\rfoot{\thepage}
+}
+
+\usepackage{subfiles}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{fixltx2e}
+\usepackage{longtable} 
+\usepackage{pdflscape} 
+\usepackage{afterpage}
+
+\usepackage{imakeidx}
+\makeindex[name=a,title=Authors,intoc=true]
+\makeindex[name=p,title=Packages,intoc=true]
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{eurosym}
+\usepackage{amsfonts, amsmath, hanging, hyperref, parskip, times}
+\usepackage[numbers]{natbib}
+\usepackage[pdftex]{graphicx}
+\usepackage{graphicx} 
+\hypersetup{
+	colorlinks,
+	linkcolor=black,
+	urlcolor=black,
+	citecolor=black
+}
+
+\usepackage{pdfpages}
+
+%\let\section=\subsubsection
+\newcommand{\pkg}[1]{{\normalfont\fontseries{b}\selectfont #1}}
+\let\proglang=\textit
+\let\code=\texttt
+\newcommand{\atitle}[1]{\begin{center}{\bf \LARGE #1}\end{center}}
+\newcommand{\affiliations}{\footnotesize\centering}
+\newcommand{\keywords}{\paragraph{Keywords:}}
+\newcommand{\packages}{\paragraph{R packages:}}
+
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\setlength{\topmargin}{-15mm}
+\setlength{\oddsidemargin}{5mm}
+\setlength{\textwidth}{165mm}
+\setlength{\textheight}{250mm}
+
+\titleformat{\chapter}[display]
+{\normalfont\bfseries}{}{0pt}{\Large}
+
+\titleformat{\section}[block]
+{\Large\bfseries}{}{0pt}{\titlerule\\}[\vspace{2pt}\titlerule]
+
+%\titleformat{\section}[block]
+%{\Large\bfseries\filcenter}{}{1em}{}
+
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{3}
+
+\title{IV Ogólnopolska Konferencja Klimatologiczna \\ \emph{"Aktualne problemy badawcze w meteorologii i klimatologii"}}
+\vspace{12cm}
+\date{23 marca 2018 r.}
+\author{Uniwersytet im. Adama Mickiewicza w Poznaniu\\Wydział Nauk Geograficznych i Geologicznych}
+
+\usepackage{graphicx}
+\begin{document}
+
+% \includepdf{figs/front_cover.pdf}
+% \cleardoublepage
+
+\frontmatter
+\maketitle
+
+\chapter*{KOMITET NAUKOWY}
+\vspace{-0.5cm}
+prof. UAM dr hab. Leszek Kolendowicz, \textit{Uniwersytet im. Adama Mickiewicza}
+
+prof. dr hab. Ewa Bednorz, \textit{Uniwersytet im. Adama Mickiewicza}
+
+prof. dr hab. Krzysztof Fortuniak,  \textit{Uniwersytet Łódzki}
+
+prof. UWr. dr hab. Maciej Kryza, \textit{Uniwersytet Wrocławski}
+
+prof. dr hab. Krzysztof Migała,  \textit{Uniwersytet Wrocławski}
+
+prof. dr hab. Zbigniew Ustrnul,  \textit{Uniwersytet Jagielloński}
+
+prof. dr hab. Joanna Wibig, \textit{Uniwersytet Łódzki}
+
+prof. UAM dr hab. Dariusz Wrzesiński, \textit{Uniwersytet im. Adama Mickiewicza}
+
+
+\vspace{2cm}
+\Large{\textbf{KOMITET ORGANIZACYJNY}}
+\vspace{0.5cm}
+
+\normalsize dr Arkadiusz Tomczyk
+
+mgr Agnieszka Majkowska
+
+prof. UAM dr hab. Leszek Kolendowicz
+
+prof dr hab. Ewa Bednorz
+
+dr Bartosz Czernecki
+
+dr Mateusz Taszarek
+
+dr Marek Półrolniczak
+
+dr Katarzyna Szyga-Pluta
+
+mgr Hanna Forycka -- Ławniczak
+
+
+%\begin{landscape}
+\chapter{Szczegółowy program konferencji }
+TODO
+%\input{figs/full_program.tex}
+%\end{landscape}
+
+\chapter{Przedmowa}
+\input{misc/welcome.tex}
+
+
+\tableofcontents
+\mainmatter
+
+\pagestyle{mainmatter}% mainmatter page style
+
+\chapter{Sesja I (godz. 9.30-12.30)}
+\large
+\vspace{0.5cm}
+\subfile{abstrakty/Bilinska.tex}
+\newpage
+\subfile{abstrakty/Franczyk.tex}
+\newpage
+\subfile{abstrakty/Poreba.tex}
+\newpage
+\subfile{abstrakty/Bielecki.tex}
+\newpage
+\subfile{abstrakty/Guzik.tex}
+
+\chapter{Sesja II (godz. XX.00-XX.XX)}
+\subfile{abstrakty/Bielecki.tex}
+\newpage
+\subfile{abstrakty/Guzik.tex}
+
+
+
+\chapter{Uczestnicy konferencji}
+\input{misc/indeks_autorow.tex}
+
+
+\backmatter
+\printindex[a]
+\printindex[p]
+
+
+%\includepdf{figs/back_cover.pdf}
+
+\end{document}
