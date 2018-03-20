@@ -1,17 +1,28 @@
-\contentsline {chapter}{Szczeg\IeC {\'o}\IeC {\l }owy program konferencji }{ii}{chapter*.2}
+\contentsline {chapter}{Ramowy program konferencji }{ii}{chapter*.2}
+\contentsline {chapter}{Przedmowa}{iii}{chapter*.3}
 \contentsline {chapter}{\numberline {1}Abstrakty}{1}{chapter.1}
-\contentsline {section}{Ocena jako\IeC {\'s}ci powietrza w Miechowie}{1}{section*.4}
+\contentsline {section}{Ocena jako\IeC {\'s}ci powietrza w Miechowie}{1}{section*.5}
 \contentsline {section}{Wykorzystanie modelu HYSPLIT do oznaczania obszar\IeC {\'o}w \IeC {\'z}r\IeC {\'o}d\IeC {\l }owych py\IeC {\l }ku Ambrozji we Wroc\IeC {\l }awiu}{3}{Item.1}
-\contentsline {section}{Wp\IeC {\l }yw w\IeC {\k e}gla organicznego w glebie na zmiany klimatyczne i jako\IeC {\'s}\IeC {\'c} \IeC {\.z}ywno\IeC {\'s}ci a inicjatywa '4\%' (na przyk\IeC {\l }adzie Torredelcampo w prowincji Jaen w Hiszpanii)}{4}{Item.3}
-\contentsline {section}{Zjawisko miejskiej wyspy ciep\IeC {\l }a i jeziora ch\IeC {\l }odu na obszarze Poznania}{5}{Item.4}
-\contentsline {section}{Du\IeC {\.z}e zmiany \IeC {\'s}redniej dobowej temperatury powietrza z dnia na dzie\IeC {\'n}\nobreakspace {}w\nobreakspace {}{Tatrach}}{6}{Item.5}
-\contentsline {section}{Superkom\IeC {\'o}rki burzowe w po\IeC {\l }udniowej i zachodniej Polsce dnia 07.07.2017 \IeC {\textendash } analiza synoptyczna}{7}{Item.6}
-\contentsline {section}{W jaki spos\IeC {\'o}b modyfikujemy pogod\IeC {\k e}? Przegl\IeC {\k a}d wybranych sposob\IeC {\'o}w rozpraszania mgie\IeC {\l }}{8}{Item.8}
-\contentsline {section}{Bilans radiacyjny obszar\IeC {\'o}w bagiennych -- badania pilota\IeC {\.z}owe w Biebrza\IeC {\'n}skim Parku Narodowym}{9}{Item.9}
-\contentsline {section}{Rozmieszczenie winnic w Polsce w powi\IeC {\k a}zaniu z sieci\IeC {\k a} stacji meteorologicznych w aspekcie okre\IeC {\'s}lenia mezoklimatu korzystnego do uprawy winoro\IeC {\'s}li}{10}{Item.10}
-\contentsline {section}{Indeksy bioklimatyczne w Karkonoszach Zachodnich w latach 1961-2015}{11}{Item.11}
-\contentsline {section}{Wykorzystanie analogu \IeC {\l }azika marsja\IeC {\'n}skiego w badaniu wybranych parametr\IeC {\'o}w meteorologicznych}{12}{Item.12}
-\contentsline {section}{Charakterystyka odbiciowo\IeC {\'s}ci w obr\IeC {\k e}bie uk\IeC {\l }adu MCC 11 sierpnia 2017 r.}{13}{Item.14}
-\contentsline {section}{Szko\IeC {\l }a, uniwersytet i biznes jako w\IeC {\k e}z\IeC {\l }y sieci ucz\IeC {\k a}cej si\IeC {\k e}. Konstrukcja przyszkolnego ogr\IeC {\'o}dka meteorologicznego w ramach projektu "\IeC {\L }ejery! Co to za pogoda?!"}{14}{Item.17}
-\contentsline {chapter}{\numberline {2}Uczestnicy konferencji}{15}{chapter.2}
-\contentsline {chapter}{Authors}{17}{section*.5}
+\contentsline {section}{Wykorzystanie analogu \IeC {\l }azika marsja\IeC {\'n}skiego w badaniu wybranych parametr\IeC {\'o}w meteorologicznych}{4}{Item.3}
+\contentsline {section}{Strumienie aerozolu morskiego na Morzu Grenlandzkim }{5}{Item.5}
+\contentsline {section}{Wp\IeC {\l }yw w\IeC {\k e}gla organicznego w glebie na zmiany klimatyczne i jako\IeC {\'s}\IeC {\'c} \IeC {\.z}ywno\IeC {\'s}ci a inicjatywa '4\%' (na przyk\IeC {\l }adzie Torredelcampo w prowincji Jaen w Hiszpanii)}{6}{Item.7}
+\contentsline {section}{Du\IeC {\.z}e zmiany \IeC {\'s}redniej dobowej temperatury powietrza z dnia na dzie\IeC {\'n}\nobreakspace {}w\nobreakspace {}{Tatrach}}{7}{Item.8}
+\contentsline {section}{Zjawisko miejskiej wyspy ciep\IeC {\l }a i jeziora ch\IeC {\l }odu na obszarze Poznania}{8}{Item.9}
+\contentsline {section}{Zjawisko miejskiej wyspy ciep\IeC {\l }a i jeziora ch\IeC {\l }odu na obszarze Poznania}{9}{Item.12}
+\contentsline {section}{Wizualizacja danych meteorologicznych przy u\IeC {\.z}yciu r\IeC {\'o}\IeC {\.z}nych bibliotek R}{10}{Item.13}
+\contentsline {section}{Trendy indeks\IeC {\'o}w wiatrowych dla wybranych stacji archipelagu Svalbard}{11}{Item.14}
+\contentsline {section}{Okresy hydrologiczne na wybranych jeziorach w\nobreakspace {}Polsce w\nobreakspace {}r\IeC {\'o}\IeC {\.z}nych fazach NAO}{12}{Item.16}
+\contentsline {section}{Superkom\IeC {\'o}rki burzowe w po\IeC {\l }udniowej i zachodniej Polsce dnia 07.07.2017 \IeC {\textendash } analiza synoptyczna}{13}{Item.17}
+\contentsline {section}{W jaki spos\IeC {\'o}b modyfikujemy pogod\IeC {\k e}? Przegl\IeC {\k a}d wybranych sposob\IeC {\'o}w rozpraszania mgie\IeC {\l }}{14}{Item.19}
+\contentsline {section}{Rozmieszczenie winnic w Polsce w powi\IeC {\k a}zaniu z sieci\IeC {\k a} stacji meteorologicznych w aspekcie okre\IeC {\'s}lenia mezoklimatu korzystnego do uprawy winoro\IeC {\'s}li}{15}{Item.20}
+\contentsline {section}{Zjawisko \emph {downburst} w Polsce w dniu 14 VII 2011 r.}{16}{Item.21}
+\contentsline {section}{Aktywno\IeC {\'s}\IeC {\'c} fotosyntezy Miskanta olbrzymiego \emph {(Miscanthus sinensis gigantea)} w okresie wegetacji}{17}{Item.22}
+\contentsline {section}{{Klimatologiczne aspekty burz w\nobreakspace {}Europie -- por\IeC {\'o}wnanie wynik\IeC {\'o}w sieci detekcji wy\IeC {\l }adowa\IeC {\'n} atmosferycznych, obserwacji naziemnych, reanaliz, radiosonda\IeC {\.z}y oraz raport\IeC {\'o}w ESWD (1979-2017)}}{18}{Item.23}
+\contentsline {section}{Indeksy bioklimatyczne w Karkonoszach Zachodnich w latach 1961-2015}{19}{Item.24}
+\contentsline {section}{Charakterystyka odbiciowo\IeC {\'s}ci w obr\IeC {\k e}bie uk\IeC {\l }adu MCC 11 sierpnia 2017 r.}{20}{Item.25}
+\contentsline {section}{Zmienno\IeC {\'s}\IeC {\'c} opad\IeC {\'o}w atmosferycznych w okresie 1961-2015 w centralnej cz\IeC {\k e}\IeC {\'s}ci Polski}{21}{Item.28}
+\contentsline {section}{Szko\IeC {\l }a, uniwersytet i biznes jako w\IeC {\k e}z\IeC {\l }y sieci ucz\IeC {\k a}cej si\IeC {\k e}. Konstrukcja przyszkolnego ogr\IeC {\'o}dka meteorologicznego w ramach projektu "\IeC {\L }ejery! Co to za pogoda?!"}{22}{Item.29}
+\contentsline {section}{Bilans radiacyjny obszar\IeC {\'o}w bagiennych -- badania pilota\IeC {\.z}owe w Biebrza\IeC {\'n}skim Parku Narodowym}{23}{Item.30}
+\contentsline {section}{Miejska wyspa ciep\IeC {\l }a w \IeC {\L }odzi podczas fali ch\IeC {\l }odu zim\IeC {\k a} 2018 r.}{24}{Item.31}
+\contentsline {chapter}{\numberline {2}Uczestnicy konferencji}{25}{chapter.2}
+\contentsline {chapter}{Autorzy:}{27}{section*.6}
