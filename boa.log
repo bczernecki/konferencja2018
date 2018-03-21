@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.4)  21 MAR 2018 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.4)  21 MAR 2018 23:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1647,80 +1647,48 @@ l.135 \chapter
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 154.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 155.
  (./boa.toc
-Overfull \hbox (45.45525pt too wide) in paragraph at lines 6--6
- [][] [][]\T1/ptm/m/n/14.4 Wy-ko-rzy-sta-nie ana-lo-gu ªa-zi-ka mar-sja«-skie-g
-o w ba-da-niu wy-bra-nych pa-ra-me-trów 
+Underfull \hbox (badness 6428) in paragraph at lines 8--8
+ [][] [][]\T1/ptm/m/n/14.4 Wpªyw w¦-gla or-ga-nicz-ne-go w gle-bie na zmia-ny k
+li-ma-tycz-ne 
  []
 
 
-Overfull \hbox (30.88245pt too wide) in paragraph at lines 8--8
- \T1/ptm/m/n/14.4 »yw-no-±ci a ini-cja-ty-wa '4%' (na przy-kªa-dzie Tor-re-del-
-cam-po w pro-win-cji 
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+ \T1/ptm/m/n/14.4 i ja-ko±¢ »yw-no-±ci a ini-cja-ty-wa '4%' (na przy-kªa-dzie 
  []
 
 
-Overfull \hbox (27.1238pt too wide) in paragraph at lines 9--9
+Underfull \hbox (badness 1668) in paragraph at lines 9--9
  [][] [][]\T1/ptm/m/n/14.4 Du-»e zmia-ny ±red-niej do-bo-wej tem-pe-ra-tu-ry po
--wie-trza z dnia na dzie« w Ta-trach[][] [][]  
+-wie-trza z dnia na 
  []
 
 
-Overfull \hbox (9.48499pt too wide) in paragraph at lines 14--14
- [][] [][]\T1/ptm/m/n/14.4 Okre-sy hy-dro-lo-gicz-ne na wy-bra-nych je-zio-rach
- w Pol-sce w ró»-nych fa-zach 
- []
-
-
-Overfull \hbox (17.53452pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 2452) in paragraph at lines 15--15
  [][] [][]\T1/ptm/m/n/14.4 Su-per-ko-mór-ki bu-rzo-we w po-ªu-dnio-wej i za-cho
-d-niej Pol-sce dnia 07.07.2017 
+d-niej Pol-sce dnia 
  []
 
 
-Overfull \hbox (18.90228pt too wide) in paragraph at lines 16--16
- [][] [][]\T1/ptm/m/n/14.4 Wpªyw wy-bra-nych ma-kro-ska-lo-wych ty-pów cyr-ku-l
-a-cji at-mos-fe-ry na zmia-ny 
- []
-
-
-Overfull \hbox (50.39284pt too wide) in paragraph at lines 18--18
+Underfull \hbox (badness 3323) in paragraph at lines 18--18
  [][] [][]\T1/ptm/m/n/14.4 Roz-miesz-cze-nie win-nic w Pol-sce w po-wi¡-za-niu 
-z sie-ci¡ sta-cji me-te-oro-lo-gicz-nych 
+z sie-ci¡ sta-cji 
  []
 
 
-Overfull \hbox (2.87479pt too wide) in paragraph at lines 18--18
- \T1/ptm/m/n/14.4 w aspek-cie okre-±le-nia me-zo-kli-ma-tu ko-rzyst-ne-go do up
-ra-wy wi-no-ro-±li[][] [][]  
- []
-
-
-Overfull \hbox (93.66525pt too wide) in paragraph at lines 20--20
- [][] [][]\T1/ptm/m/n/14.4 Ak-tyw-no±¢ fo-to-syn-te-zy Mi-skan-ta ol-brzy-mie-g
-o \T1/ptm/m/it/14.4 (Mi-scan-thus si-nen-sis gi-gan-tea) \T1/ptm/m/n/14.4 w okr
-e-sie 
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+ \T1/ptm/m/n/14.4 me-te-oro-lo-gicz-nych w aspek-cie okre-±le-nia me-zo-kli-ma-
+tu 
  []
 
 [4
 
 ]
-Overfull \hbox (33.2439pt too wide) in paragraph at lines 21--21
- \T1/ptm/m/n/14.4 de-tek-cji wy-ªa-do-wa« at-mos-fe-rycz-nych, ob-ser-wa-cji na
--ziem-nych, re-ana-liz, 
- []
-
-
-Overfull \hbox (28.37767pt too wide) in paragraph at lines 25--25
- \T1/ptm/m/n/14.4 przy-szkol-ne-go ogród-ka me-te-oro-lo-gicz-ne-go w ra-mach p
-ro-jek-tu "Še-je-ry! 
- []
-
-
-Overfull \hbox (34.4392pt too wide) in paragraph at lines 26--26
+Underfull \hbox (badness 8151) in paragraph at lines 26--26
  [][] [][]\T1/ptm/m/n/14.4 Bi-lans ra-dia-cyj-ny ob-sza-rów ba-gien-nych -- ba-
-da-nia pi-lo-ta-»o-we w Bie-brza«-skim 
+da-nia pi-lo-ta-»o-we 
  []
 
 )
@@ -1730,6 +1698,10 @@ da-nia pi-lo-ta-»o-we w Bie-brza«-skim
  [5]
 Rozdzia\PlPrIeC {\l } 1.
 (./abstrakty/Bielecki.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Wpªyw wa-run-ków me-te-oro-lo-gicz-nych na kon-cen-tra-cj¦
+ []
+
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
@@ -2183,7 +2155,7 @@ Underfull \hbox (badness 4013) in paragraph at lines 34--35
  []
 
 )
-Overfull \hbox (8.01384pt too wide) in paragraph at lines 36--186
+Overfull \hbox (8.01384pt too wide) in paragraph at lines 36--188
 []\T1/ptm/m/n/14.4 Przeprowadzone ba-da-nia po-twier-dzi-ªy, »e wpªyw Oscy-la-c
 ji Póª-noc-no-atlan-tyc-kiej
  []
@@ -2303,36 +2275,25 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14] (./abstrakty/Skomorowski.tex)
-Overfull \hbox (30.37604pt too wide) in paragraph at lines 33--192
-[]\T1/ptm/m/n/14.4 Mgªa to zja-wi-sko at-mos-fe-rycz-ne, któ-re po-przez zmniej
--sze-nie wi-dzial-no-±ci po-zio-mej,
+[14] (./abstrakty/Skomorowski.tex
+Underfull \hbox (badness 2197) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 ma-j¡-ce za za-da-nie roz-pra-sza¢ mgª¦ na lot-ni-skach te-sto
+-wa-no ju» pod-czas
  []
 
 
-Overfull \hbox (5.82501pt too wide) in paragraph at lines 33--192
-\T1/ptm/m/n/14.4 w zna-cz¡-cy spo-sób utrud-nia bez-piecz-ne prze-miesz-cza-nie
- si¦. Miej-scem szcze-gól-nie
+Underfull \hbox (badness 3568) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 ufor-mo-wa-nia si¦ mgªy trwa do dzi-siej-sze-go dnia. Z ja-k¡ 
+sku-tecz-no-±ci¡
  []
 
 
-Overfull \hbox (15.50252pt too wide) in paragraph at lines 33--192
-\T1/ptm/m/n/14.4 Spraw-no±¢ oraz bez-pie-cze«-stwo pro-ce-dur ta-kich jak: l¡-d
-o-wa-nia, star-tu czy ko-ªo-wa-nia
+Underfull \hbox (badness 2941) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 po-tra-fi-my dzi± mo-dy-fi-ko-wa¢ po-go-d¦ aby roz-pro-szy¢ mg
+ª¦? W ni-niej-szej
  []
 
-
-Overfull \hbox (9.51178pt too wide) in paragraph at lines 33--192
-\T1/ptm/m/n/14.4 mgªy ule-ga znacz-ne-mu wy-dªu-»e-niu. Pierw-sze sys-te-my ma-
-j¡-ce za za-da-nie roz-pra-sza¢
- []
-
-
-Overfull \hbox (2.48378pt too wide) in paragraph at lines 33--192
-\T1/ptm/m/n/14.4 mgª¦? W ni-niej-szej pre-zen-ta-cji przed-sta-wio-no wy-bra-ne
- spo-so-by roz-pra-sza-nia mgªy
- []
-
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2482,27 +2443,15 @@ o-sta-tecz-nej ilo-±ci
  []
 
 )
-Overfull \hbox (13.15543pt too wide) in paragraph at lines 35--198
-\T1/ptm/m/n/14.4 (Mi-scan-thus si-nen-sis gi-gan-tea) w dwóch wa-rian-tach do-s
-t¦p-no-±ci do wo-dy grun-to-wej.
+Overfull \hbox (14.84048pt too wide) in paragraph at lines 35--200
+\T1/ptm/m/n/14.4 (\T1/ptm/m/it/14.4 Mi-scan-thus si-nen-sis gi-gan-tea\T1/ptm/m
+/n/14.4 ) w dwóch wa-rian-tach do-st¦p-no-±ci do wo-dy grun-to-wej.
  []
 
 
-Overfull \hbox (23.98434pt too wide) in paragraph at lines 35--198
-\T1/ptm/m/n/14.4 Upra-wa eks-ten-syw-na mi-skan-ta ol-brzy-mie-go pro-wa-dzo-na
- jest na te-re-nie Wy-dzia-ªo-we-go
- []
-
-
-Overfull \hbox (112.19699pt too wide) in paragraph at lines 35--198
-\T1/ptm/m/n/14.4 Ob-ser-wa-to-rium Agro i Hy-dro-me-te-oro-lo-gii, Wy-dzia-ªu I
-n-»y-nie-rii Ksztaª-to-wa-nia ‘ro-do-wi-ska i Geo-de-zji,
- []
-
-
-Overfull \hbox (0.57051pt too wide) in paragraph at lines 35--198
-\T1/ptm/m/n/14.4 Uni-wer-sy-te-tu Przy-rod-ni-cze-go we Wro-cªa-wiu. Po-mia-ry 
-by-ªy pro-wa-dzo-ne w okre-sie
+Overfull \hbox (17.31673pt too wide) in paragraph at lines 35--200
+\T1/ptm/m/n/14.4 owe-go Ob-ser-wa-to-rium Agro i Hy-dro-me-te-oro-lo-gii, Wy-dz
+ia-ªu In-»y-nie-rii Ksztaª-to-wa-nia
  []
 
 
@@ -2583,13 +2532,13 @@ e-ry. Uzy-ska-ne wy-ni-ki
  []
 
 )
-Overfull \hbox (6.37213pt too wide) in paragraph at lines 39--200
+Overfull \hbox (6.37213pt too wide) in paragraph at lines 39--202
 []\T1/ptm/m/n/14.4 Uzyskane wy-ni-ki wska-zu-j¡, »e bu-rze wy-st¦-pu-j¡ naj-cz¦
 -±ciej na Póª-wy-spie Apeni-
  []
 
 
-Overfull \hbox (2.88869pt too wide) in paragraph at lines 39--200
+Overfull \hbox (2.88869pt too wide) in paragraph at lines 39--202
 \T1/ptm/m/n/14.4 40 lat za-no-to-wa-ny zo-staª wzrost licz-by burz w póª-noc-ne
 j cz¦-±ci Eu-ro-py oraz spa-dek
  []
@@ -2833,26 +2782,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [25]
 Rozdzia\PlPrIeC {\l } 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 224.
+(Font)              scaled to size 11.03998pt on input line 226.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 224.
+(Font)              scaled to size 8.27998pt on input line 226.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 224.
+(Font)              scaled to size 6.43999pt on input line 226.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 224.
+(Font)              scaled to size 11.03998pt on input line 226.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 224.
+(Font)              scaled to size 8.27998pt on input line 226.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 224.
+(Font)              scaled to size 6.43999pt on input line 226.
 
-Overfull \hbox (23.07787pt too wide) in paragraph at lines 224--258
+Overfull \hbox (23.07787pt too wide) in paragraph at lines 226--260
 [][] 
  []
 
 [26
 
 ]
-Overfull \hbox (16.64609pt too wide) in paragraph at lines 269--313
+Overfull \hbox (16.64609pt too wide) in paragraph at lines 271--315
 [][] 
  []
 
@@ -2869,14 +2818,14 @@ runsystem(makeindex a.idx)...executed safely (allowed).
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
  (./boa.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
 Package rerunfilecheck Info: File `boa.out' has not changed.
-(rerunfilecheck)             Checksum: 7B158392B145B25872FE9758637D13E9;3549.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 325.
+(rerunfilecheck)             Checksum: 7592174B34CF917085562A11A1685AA8;3595.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 327.
  ) 
 Here is how much of TeX's memory you used:
  17968 strings out of 494344
@@ -2894,10 +2843,10 @@ f-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist
 mb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on boa.pdf (34 pages, 162230 bytes).
+Output written on boa.pdf (34 pages, 162678 bytes).
 PDF statistics:
- 446 PDF objects out of 1000 (max. 8388607)
- 398 compressed objects within 4 object streams
+ 450 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
  77 named destinations out of 1000 (max. 500000)
  233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
