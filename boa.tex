@@ -5,13 +5,13 @@
 \usepackage[a4paper]{geometry}
 \usepackage{geometry} % - pozwala na ustawienie parametrów strony poprzez
 \geometry{verbose,a4paper,tmargin=2.5cm,bmargin=2.9cm,lmargin=5.2cm,rmargin=-.7cm}
-
+\usepackage{ragged2e} 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
 
 \fancypagestyle{mainmatter}{
-%\rhead{Program konferencji}
+\rhead{\emph{Poznań, 23.03.2018}}
 \lhead{IV Ogólnopolska Konferencja Klimatologiczna}
 \rfoot{\thepage}
 }
@@ -135,15 +135,16 @@ mgr Hanna Forycka -- Ławniczak
 \chapter{Ramowy program konferencji }
 
 \Large{8:00 – 9:00 rejestracja uczestników\\
-9:00 – 10:30 otwarcie konferencji oraz I sesja referatowa\\
-10:30 – 11:00 przerwa kawowa\\
-11:00 – 13:30 II  sesja referatowa \\
-13:30 – 14:15 obiad\\
-14:15 – 16:45 III sesja referatowa\\
-16:45 – 17:00 przerwa kawowa\\
-17:00 – 18:30 IV sesja referatowa\\
-18:30 – 19:00 podsumowanie i zakończenie konferencji}
-
+9:00 – 10:00 otwarcie konferencji oraz I sesja referatowa\\
+10:00 – 10:30 przerwa kawowa\\
+10:30 – 12:00 II  sesja referatowa \\
+12:00 – 12:30 przerwa kawowa\\
+12:30 – 14:00 III sesja referatowa\\
+14:00 – 15:00 przerwa obiadowa\\
+15:00 – 16:30 IV sesja referatowa\\
+16:30 – 17:00 przerwa kawowa\\
+17:00 – 18:00 V sesja referatowa\\
+18:00 – 18:15 podsumowanie i zakończenie konferencji}
 %\input{figs/full_program.tex}
 %\end{landscape}
 \chapter{Przedmowa}
@@ -156,12 +157,12 @@ mgr Hanna Forycka -- Ławniczak
 
 \pagestyle{mainmatter}% mainmatter page style
 
-
-\chapter{Abstrakty}
-\large
 \vspace{-0.5cm}
-\subfile{abstrakty/Bielecki.tex} \label{bielecki}
-\newpage
+\chapter{Abstrakty}
+\large 
+
+\justify{\subfile{abstrakty/Bielecki.tex} \label{bielecki}
+\newpage 
 \subfile{abstrakty/Bilinska.tex} \label{bilinska}
 \newpage
 \subfile{abstrakty/Cybulski.tex} \label{cybulski}
@@ -172,13 +173,13 @@ mgr Hanna Forycka -- Ławniczak
 \newpage
 \subfile{abstrakty/Guzik.tex} \label{guzik}
 \newpage
-\subfile{abstrakty/Kendzierski.tex} \label{kendzierski}
+\subfile{abstrakty/Kendzierski.tex} \label{kendzierski}  
 \newpage
-\subfile{abstrakty/Kolendowicz.tex} \label{kolendowicz}
+\subfile{abstrakty/Kolendowicz.tex} \label{kolendowicz} 
 \newpage
-\subfile{abstrakty/Kupczyk.tex} \label{kupczyk}
+\subfile{abstrakty/Kupczyk.tex} \label{kupczyk} 
 \newpage
-\subfile{abstrakty/Pilguj.tex} \label{pilguj}
+\subfile{abstrakty/Pilguj.tex} \label{pilguj} 
 \newpage 	
 \subfile{abstrakty/Plewa.tex} \label{plewa}
 \newpage 	
@@ -205,7 +206,7 @@ mgr Hanna Forycka -- Ławniczak
 \newpage
 \subfile{abstrakty/Wieczorek.tex} \label{wieczorek}
 \newpage
-\subfile{abstrakty/Wilk.tex} \label{wilk}
+\subfile{abstrakty/Wilk.tex} \label{wilk}}
 \newpage
 
 
@@ -262,7 +263,6 @@ Kolejność uczestników konferencji w porządku alfabetycznym:
 \Large część II:
 
 
-
 % tabela nr 2
 \normalsize
 \begin{tabular}{||c|l|l|l||}
@@ -283,28 +283,27 @@ Kolejność uczestników konferencji w porządku alfabetycznym:
 25     & Natalia Pilguj & Uniwersytet Wrocławski, & referat (str. \pageref{pilguj})\\\hline
 26	 & Wojciech Pilorz & Uniwersytet Śląski, & referat (str. \pageref{piasecki})\\
 	 &  & Skywarn Polska &  \\\hline
-27 	 & Joanna Popławska & Uniwersytet Warszawski & poster (str. \pageref{solecki}) \\\hline	
-28  	 & Katarzyna Plewa & Uniwersytet im. A. Mickiewicza & referat  (str. \pageref{plewa})\\\hline
-29	 & Szymon Poręba & Uniwersytet Jagielloński & referat (str. \pageref{poreba}) \\\hline
-30	 & Marek Półrolniczak & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{kendzierski}), \pageref{kolendowicz} \\\hline
-31   & Wojciech Radziun & Uniwersytet Łódzki & referat (str. \pageref{radziun}) \\\hline
-32 	 & Aleksandra Renc & Uniwersytet Śląski & -- \\\hline
-33	 & Oskar Sękowski & Uniwersytet Jagielloński & referat (str. \pageref{sekowski}) \\\hline
-34	 & Carsten Ambelas Skjøth & University of Worcester & referat (str. \pageref{bilinska}) \\\hline
-35	 & Adam Skomorowski & Uniwersytet Łódzki & referat (str. \pageref{skomorowski}) \\\hline	
-36	 & Marta Sobkowiak & Politechnika Śląska & -- \\\hline
-37	 & Mateusz Solecki & Uniwersytet Warszawski & poster (str. \pageref{solecki}) \\\hline	
-38	 & Jakub Sypniewski & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{sypniewski}) \\\hline
-39	 & Wojciech Szydłowski & Uniwersytet Jagielloński & -- \\\hline
-40	 & Katarzyna Szyga--Pluta & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{kendzierski}) \\\hline
-41	 & Kryspin Świder & Uniwersytet Przyrodniczy we Wrocławiu & referat (str. \pageref{swider}) \\\hline
-42	 & Mateusz Taszarek & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{taszarek}) \\\hline
-43	 & Arkadiusz Tomczyk & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{kendzierski}) \\\hline
-44	 & Krzysztof Wardzyński & Uniwersytet Warszawski & -- \\\hline
-45   & Małgorzata Werner & Uniwersytet Wrocławski & referat (str. \pageref{bilinska})  \\\hline
-46   & Luiza Wieczorek & Uniwersytet Łódzki & referat (str. \pageref{wieczorek}) \\\hline
-47   & Szymon Wilk & Uniwersytet Łódzki & referat (str. \pageref{wilk}) \\\hline
-48   & Dariusz Zajączkowski & Uniwersytet Śląski & -- \\\hline
+27  	 & Katarzyna Plewa & Uniwersytet im. A. Mickiewicza & referat  (str. \pageref{plewa})\\\hline
+28	 & Szymon Poręba & Uniwersytet Jagielloński & referat (str. \pageref{poreba}) \\\hline
+29	 & Marek Półrolniczak & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{kendzierski}), \pageref{kolendowicz} \\\hline
+30   & Wojciech Radziun & Uniwersytet Łódzki & referat (str. \pageref{radziun}) \\\hline
+31 	 & Aleksandra Renc & Uniwersytet Śląski & -- \\\hline
+32	 & Oskar Sękowski & Uniwersytet Jagielloński & referat (str. \pageref{sekowski}) \\\hline
+33	 & Carsten Ambelas Skjøth & University of Worcester & referat (str. \pageref{bilinska}) \\\hline
+34	 & Adam Skomorowski & Uniwersytet Łódzki & referat (str. \pageref{skomorowski}) \\\hline	
+35	 & Marta Sobkowiak & Politechnika Śląska & -- \\\hline
+36	 & Mateusz Solecki & Uniwersytet Warszawski & poster (str. \pageref{solecki}) \\\hline	
+37	 & Jakub Sypniewski & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{sypniewski}) \\\hline
+38	 & Wojciech Szydłowski & Uniwersytet Jagielloński & -- \\\hline
+39	 & Katarzyna Szyga--Pluta & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{kendzierski}) \\\hline
+40	 & Kryspin Świder & Uniwersytet Przyrodniczy we Wrocławiu & referat (str. \pageref{swider}) \\\hline
+41	 & Mateusz Taszarek & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{taszarek}) \\\hline
+42	 & Arkadiusz Tomczyk & Uniwersytet im. A. Mickiewicza & referat (str. \pageref{kendzierski}) \\\hline
+43	 & Krzysztof Wardzyński & Uniwersytet Warszawski & -- \\\hline
+44   & Małgorzata Werner & Uniwersytet Wrocławski & referat (str. \pageref{bilinska})  \\\hline
+45   & Luiza Wieczorek & Uniwersytet Łódzki & referat (str. \pageref{wieczorek}) \\\hline
+46   & Szymon Wilk & Uniwersytet Łódzki & referat (str. \pageref{wilk}) \\\hline
+47   & Dariusz Zajączkowski & Uniwersytet Śląski & -- \\\hline
 	
 \hline
 \hline

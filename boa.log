@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  21 MAR 2018 10:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  21 MAR 2018 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -684,16 +684,37 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
 )
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip43
+\RaggedLeftLeftskip=\skip44
+\RaggedRightLeftskip=\skip45
+\CenteringRightskip=\skip46
+\RaggedLeftRightskip=\skip47
+\RaggedRightRightskip=\skip48
+\CenteringParfillskip=\skip49
+\RaggedLeftParfillskip=\skip50
+\RaggedRightParfillskip=\skip51
+\JustifyingParfillskip=\skip52
+\CenteringParindent=\skip53
+\RaggedLeftParindent=\skip54
+\RaggedRightParindent=\skip55
+\JustifyingParindent=\skip56
+)
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip43
-\f@ncyO@elh=\skip44
-\f@ncyO@erh=\skip45
-\f@ncyO@olh=\skip46
-\f@ncyO@orh=\skip47
-\f@ncyO@elf=\skip48
-\f@ncyO@erf=\skip49
-\f@ncyO@olf=\skip50
-\f@ncyO@orf=\skip51
+\fancy@headwidth=\skip57
+\f@ncyO@elh=\skip58
+\f@ncyO@erh=\skip59
+\f@ncyO@olh=\skip60
+\f@ncyO@orh=\skip61
+\f@ncyO@elf=\skip62
+\f@ncyO@erf=\skip63
+\f@ncyO@olf=\skip64
+\f@ncyO@orf=\skip65
 )
 (/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2012/05/23 Federico Garcia
@@ -814,13 +835,13 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip52
+\Hy@SectionHShift=\skip66
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
 \ttl@box=\box26
-\beforetitleunit=\skip53
-\aftertitleunit=\skip54
+\beforetitleunit=\skip67
+\aftertitleunit=\skip68
 \ttl@plus=\dimen115
 \ttl@minus=\dimen116
 \ttl@toksa=\toks20
@@ -838,10 +859,10 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip55
-\LTright=\skip56
-\LTpre=\skip57
-\LTpost=\skip58
+\LTleft=\skip69
+\LTright=\skip70
+\LTpre=\skip71
+\LTpost=\skip72
 \LTchunksize=\count101
 \LTcapwidth=\dimen120
 \LT@head=\box27
@@ -937,12 +958,12 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \l_tmpb_dim=\dimen124
 \g_tmpa_dim=\dimen125
 \g_tmpb_dim=\dimen126
-\c_zero_skip=\skip59
-\c_max_skip=\skip60
-\l_tmpa_skip=\skip61
-\l_tmpb_skip=\skip62
-\g_tmpa_skip=\skip63
-\g_tmpb_skip=\skip64
+\c_zero_skip=\skip73
+\c_max_skip=\skip74
+\l_tmpa_skip=\skip75
+\l_tmpb_skip=\skip76
+\g_tmpa_skip=\skip77
+\g_tmpb_skip=\skip78
 \c_zero_muskip=\muskip11
 \c_max_muskip=\muskip12
 \l_tmpa_muskip=\muskip13
@@ -1222,8 +1243,8 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \page@free=\dimen154
 \premulticols=\dimen155
 \postmulticols=\dimen156
-\multicolsep=\skip65
-\multicolbaselineskip=\skip66
+\multicolsep=\skip79
+\multicolbaselineskip=\skip80
 \partial@page=\box49
 \last@line=\box50
 \maxbalancingoverflow=\dimen157
@@ -1284,7 +1305,7 @@ LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
-\@mathmargin=\skip67
+\@mathmargin=\skip81
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -1334,22 +1355,22 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \totwidth@=\dimen168
 \lineht@=\dimen169
 \@envbody=\toks29
-\multlinegap=\skip68
-\multlinetaggap=\skip69
+\multlinegap=\skip82
+\multlinetaggap=\skip83
 \mathdisplay@stack=\toks30
 LaTeX Info: Redefining \[ on input line 2735.
 LaTeX Info: Redefining \] on input line 2736.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hanging/hanging.sty
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
-\h@ngcommawd=\skip70
-\h@ngfstopwd=\skip71
-\h@ngquotewd=\skip72
-\h@ngdquotewd=\skip73
-\h@ngquerywd=\skip74
-\h@ngexclwd=\skip75
-\h@ngcolonwd=\skip76
-\h@ngscolonwd=\skip77
+\h@ngcommawd=\skip84
+\h@ngfstopwd=\skip85
+\h@ngquotewd=\skip86
+\h@ngdquotewd=\skip87
+\h@ngquerywd=\skip88
+\h@ngexclwd=\skip89
+\h@ngcolonwd=\skip90
+\h@ngscolonwd=\skip91
 )
 (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
@@ -1359,8 +1380,8 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip78
-\bibsep=\skip79
+\bibhang=\skip92
+\bibsep=\skip93
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count158
 )
@@ -1383,12 +1404,12 @@ Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count160
 \calc@Adimen=\dimen172
 \calc@Bdimen=\dimen173
-\calc@Askip=\skip80
-\calc@Bskip=\skip81
+\calc@Askip=\skip94
+\calc@Bskip=\skip95
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count161
-\calc@Cskip=\skip82
+\calc@Cskip=\skip96
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
@@ -1516,8 +1537,11 @@ Package geometry Warning: The marginal notes overrun the paper.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 79.
 \AtBeginShipoutBox=\box79
 Package hyperref Info: Link coloring ON on input line 79.
+
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1618,7 +1642,7 @@ l.135 \chapter
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 153.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 154.
  (./boa.toc
 Overfull \hbox (17.53372pt too wide) in paragraph at lines 9--9
  [][] [][]\T1/ptm/m/n/14.4 Du-»e zmia-ny ±red-niej do-bo-wej tem-pe-ra-tu-ry po
@@ -1660,7 +1684,13 @@ LaTeX Font Info:    Try loading font information for TS1+ptm on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [1
+)
+Overfull \hbox (2.3706pt too wide) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 nicz-ne po-cho-dz¡-ce z sek-to-ra komunalno-bytowego, prze-my-
+sªu oraz ±rod-ków trans-
+ []
+
+[1
 
 
 ])
@@ -1705,7 +1735,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7] (./abstrakty/Kendzierski.tex)
+[7] (./abstrakty/Kendzierski.tex
+Overfull \hbox (0.58421pt too wide) in paragraph at lines 35--37
+\T1/ptm/m/n/14.4 oro-lo-gicz-nych dla ob-sza-ru za-chod-niej cz¦-±ci Za-to-ki P
+e-tu-nia-buk-ta (Sval-bard) w lip-
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1733,14 +1769,38 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] (./abstrakty/Plewa.tex)
+[11] (./abstrakty/Plewa.tex
+Overfull \hbox (1.1165pt too wide) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 czªo-wie-ka. W Pol-sce na zmien-no±¢ wa-run-ków kli-ma-tycz-ny
+ch do±¢ wy-ra¹-nie wpªy-
+ []
+
+
+Overfull \hbox (1.34679pt too wide) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 wa na-t¦-»e-nie Oscy-la-cji Póª-noc-no-atlan-tyc-kiej (NAO), d
+la-te-go ce-lem pra-cy jest usta-
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12] (./abstrakty/Poreba.tex)
+[12] (./abstrakty/Poreba.tex
+Overfull \hbox (1.96643pt too wide) in paragraph at lines 36--37
+\T1/ptm/m/n/14.4 so-kie-go ci-±nie-nia. W gór-nej tro-pos-fe-rze wy-st¦-po-waª 
+znacz-ny, za-chod-ni i póªnocno-
+ []
+
+
+Overfull \hbox (13.14043pt too wide) in paragraph at lines 38--39
+\T1/ptm/m/n/14.4 ESWD oraz po-mia-ry od-bi-cio-wo-±ci ra-da-ro-wej i wid-ma wia
+-tru dop-ple-row-skie-go z ró»-
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1764,6 +1824,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [15] (./abstrakty/Solecki.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 6.
+
+Overfull \hbox (11.21155pt too wide) in paragraph at lines 32--34
+[]\T1/ptm/m/it/14.4 Downburst \T1/ptm/m/n/14.4 to zja-wi-sko sil-ne-go pr¡-du z
+st¦-pu-j¡-ce-go, któ-ry ude-rza o grunt z ogrom-
+ []
+
 )
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1785,7 +1851,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18] (./abstrakty/Pawliczek.tex)
+[18] (./abstrakty/Pawliczek.tex
+Overfull \hbox (2.51442pt too wide) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 niej tem-pe-ra-tu-ry rocz-nej, wy-dªu-»a si¦ tak-»e okres we-g
+e-ta-cyj-ny -- ze 141 dni w okre-
+ []
+
+
+Overfull \hbox (18.78738pt too wide) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 my opa-dów w póª-ro-czu chªod-nym, któ-re w la-tach 2001--2015
+ ma-j¡ rów-ny udziaª w su-
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1806,7 +1884,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21] (./abstrakty/Sypniewski.tex)
+[21] (./abstrakty/Sypniewski.tex
+Overfull \hbox (10.23186pt too wide) in paragraph at lines 34--35
+[]\T1/ptm/m/n/14.4 Konektywizm po-strze-ga wie-dz¦ ja-ko zbiór po-ª¡-cze« sie-c
+io-wych po-mi¦-dzy obiek-
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1830,20 +1914,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [24]
 Rozdzia\PlPrIeC {\l } 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 222.
+(Font)              scaled to size 11.03998pt on input line 223.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 222.
+(Font)              scaled to size 8.27998pt on input line 223.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 222.
+(Font)              scaled to size 6.43999pt on input line 223.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 222.
+(Font)              scaled to size 11.03998pt on input line 223.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 222.
+(Font)              scaled to size 8.27998pt on input line 223.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 222.
+(Font)              scaled to size 6.43999pt on input line 223.
+
+Overfull \hbox (7.74138pt too wide) in paragraph at lines 223--257
+[][] 
+ []
+
 [25
 
 ]
+Overfull \hbox (10.64609pt too wide) in paragraph at lines 268--311
+[][] 
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1857,23 +1950,23 @@ runsystem(makeindex a.idx)...executed safely (allowed).
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 324.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
  (./boa.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
 Package rerunfilecheck Info: File `boa.out' has not changed.
 (rerunfilecheck)             Checksum: 32F7A7C06EE63486038B7354630C257C;3397.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 323.
  ) 
 Here is how much of TeX's memory you used:
- 17849 strings out of 493029
- 293263 string characters out of 6136234
- 370524 words of memory out of 5000000
- 20951 multiletter control sequences out of 15000+600000
+ 17926 strings out of 493029
+ 294863 string characters out of 6136234
+ 371118 words of memory out of 5000000
+ 21021 multiletter control sequences out of 15000+600000
  107683 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,44p,10472b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,44p,10472b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist
@@ -1882,10 +1975,10 @@ f-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist
 mb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on boa.pdf (33 pages, 153108 bytes).
+Output written on boa.pdf (33 pages, 159668 bytes).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
- 383 compressed objects within 4 object streams
+ 429 PDF objects out of 1000 (max. 8388607)
+ 382 compressed objects within 4 object streams
  74 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
