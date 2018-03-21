@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  21 MAR 2018 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.4)  21 MAR 2018 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **boa.tex
 (./boa.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 30 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
@@ -1655,6 +1655,12 @@ Overfull \hbox (17.53452pt too wide) in paragraph at lines 15--15
 d-niej Pol-sce dnia 07.07.2017 
  []
 
+
+Overfull \hbox (9.51329pt too wide) in paragraph at lines 16--16
+ [][] [][]\T1/ptm/m/n/14.4 Wpªyw wy-bra-nych ma-kro-ska-lo-wych ty-pów cyr-ku-l
+a-cji at-mos-fe-ry na zmia- 
+ []
+
 [4
 
 ])
@@ -1807,21 +1813,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13] (./abstrakty/Skomorowski.tex)
+[13] (./abstrakty/Ptak.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14] (./abstrakty/Sekowski.tex)
+[14] (./abstrakty/Skomorowski.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15] (./abstrakty/Solecki.tex
+[15] (./abstrakty/Sekowski.tex)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16] (./abstrakty/Solecki.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 6.
 
@@ -1837,21 +1850,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] (./abstrakty/Swider.tex)
+[17] (./abstrakty/Swider.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17] (./abstrakty/Taszarek.tex)
+[18] (./abstrakty/Taszarek.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18] (./abstrakty/Pawliczek.tex
+[19] (./abstrakty/Pawliczek.tex
 Overfull \hbox (2.51442pt too wide) in paragraph at lines 32--33
 \T1/ptm/m/n/14.4 niej tem-pe-ra-tu-ry rocz-nej, wy-dªu-»a si¦ tak-»e okres we-g
 e-ta-cyj-ny -- ze 141 dni w okre-
@@ -1870,21 +1883,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19] (./abstrakty/Piasecki.tex)
+[20] (./abstrakty/Piasecki.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20] (./abstrakty/Radziun.tex)
+[21] (./abstrakty/Radziun.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21] (./abstrakty/Sypniewski.tex
+[22] (./abstrakty/Sypniewski.tex
 Overfull \hbox (10.23186pt too wide) in paragraph at lines 34--35
 []\T1/ptm/m/n/14.4 Konektywizm po-strze-ga wie-dz¦ ja-ko zbiór po-ª¡-cze« sie-c
 io-wych po-mi¦-dzy obiek-
@@ -1897,43 +1910,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22] (./abstrakty/Wieczorek.tex)
+[23] (./abstrakty/Wieczorek.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23] (./abstrakty/Wilk.tex)
+[24] (./abstrakty/Wilk.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24]
+[25]
 Rozdzia\PlPrIeC {\l } 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 223.
+(Font)              scaled to size 11.03998pt on input line 225.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 223.
+(Font)              scaled to size 8.27998pt on input line 225.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 223.
+(Font)              scaled to size 6.43999pt on input line 225.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 223.
+(Font)              scaled to size 11.03998pt on input line 225.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 223.
+(Font)              scaled to size 8.27998pt on input line 225.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 223.
+(Font)              scaled to size 6.43999pt on input line 225.
 
-Overfull \hbox (11.07787pt too wide) in paragraph at lines 223--257
+Overfull \hbox (23.07787pt too wide) in paragraph at lines 225--259
 [][] 
  []
 
-[25
+[26
 
 ]
-Overfull \hbox (10.64609pt too wide) in paragraph at lines 268--311
+Overfull \hbox (16.64609pt too wide) in paragraph at lines 270--314
 [][] 
  []
 
@@ -1943,29 +1956,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26]
+[27]
 runsystem(makeindex a.idx)...executed safely (allowed).
 
- (./a.ind) [27
+ (./a.ind) [28
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
  (./boa.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
 Package rerunfilecheck Info: File `boa.out' has not changed.
-(rerunfilecheck)             Checksum: 32F7A7C06EE63486038B7354630C257C;3397.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 323.
+(rerunfilecheck)             Checksum: FEBB4586591A441B6BAB4DDB3FC7FED5;3546.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 326.
  ) 
 Here is how much of TeX's memory you used:
- 17926 strings out of 493029
- 294863 string characters out of 6136234
- 371118 words of memory out of 5000000
- 21021 multiletter control sequences out of 15000+600000
+ 17934 strings out of 494344
+ 294941 string characters out of 6164288
+ 368712 words of memory out of 5000000
+ 20809 multiletter control sequences out of 15000+600000
  107683 words of font info for 125 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
+ 370 hyphenation exceptions out of 8191
  41i,11n,44p,10472b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb></usr/share/texlive/texm
@@ -1975,10 +1988,10 @@ f-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist
 mb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on boa.pdf (33 pages, 159715 bytes).
+Output written on boa.pdf (34 pages, 162787 bytes).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
- 383 compressed objects within 4 object streams
- 74 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 448 PDF objects out of 1000 (max. 8388607)
+ 400 compressed objects within 4 object streams
+ 77 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
