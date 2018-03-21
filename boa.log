@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.4)  21 MAR 2018 21:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.4)  21 MAR 2018 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,6 +715,11 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \f@ncyO@erf=\skip63
 \f@ncyO@olf=\skip64
 \f@ncyO@orf=\skip65
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language30
+LaTeX Info: Redefining \_ on input line 43.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2012/05/23 Federico Garcia
@@ -1644,9 +1649,27 @@ l.135 \chapter
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 154.
  (./boa.toc
-Overfull \hbox (17.53372pt too wide) in paragraph at lines 9--9
+Overfull \hbox (45.45525pt too wide) in paragraph at lines 6--6
+ [][] [][]\T1/ptm/m/n/14.4 Wy-ko-rzy-sta-nie ana-lo-gu ªa-zi-ka mar-sja«-skie-g
+o w ba-da-niu wy-bra-nych pa-ra-me-trów 
+ []
+
+
+Overfull \hbox (30.88245pt too wide) in paragraph at lines 8--8
+ \T1/ptm/m/n/14.4 »yw-no-±ci a ini-cja-ty-wa '4%' (na przy-kªa-dzie Tor-re-del-
+cam-po w pro-win-cji 
+ []
+
+
+Overfull \hbox (27.1238pt too wide) in paragraph at lines 9--9
  [][] [][]\T1/ptm/m/n/14.4 Du-»e zmia-ny ±red-niej do-bo-wej tem-pe-ra-tu-ry po
--wie-trza z dnia na dzie« w Ta- 
+-wie-trza z dnia na dzie« w Ta-trach[][] [][]  
+ []
+
+
+Overfull \hbox (9.48499pt too wide) in paragraph at lines 14--14
+ [][] [][]\T1/ptm/m/n/14.4 Okre-sy hy-dro-lo-gicz-ne na wy-bra-nych je-zio-rach
+ w Pol-sce w ró»-nych fa-zach 
  []
 
 
@@ -1656,14 +1679,51 @@ d-niej Pol-sce dnia 07.07.2017
  []
 
 
-Overfull \hbox (9.51329pt too wide) in paragraph at lines 16--16
+Overfull \hbox (18.90228pt too wide) in paragraph at lines 16--16
  [][] [][]\T1/ptm/m/n/14.4 Wpªyw wy-bra-nych ma-kro-ska-lo-wych ty-pów cyr-ku-l
-a-cji at-mos-fe-ry na zmia- 
+a-cji at-mos-fe-ry na zmia-ny 
+ []
+
+
+Overfull \hbox (50.39284pt too wide) in paragraph at lines 18--18
+ [][] [][]\T1/ptm/m/n/14.4 Roz-miesz-cze-nie win-nic w Pol-sce w po-wi¡-za-niu 
+z sie-ci¡ sta-cji me-te-oro-lo-gicz-nych 
+ []
+
+
+Overfull \hbox (2.87479pt too wide) in paragraph at lines 18--18
+ \T1/ptm/m/n/14.4 w aspek-cie okre-±le-nia me-zo-kli-ma-tu ko-rzyst-ne-go do up
+ra-wy wi-no-ro-±li[][] [][]  
+ []
+
+
+Overfull \hbox (93.66525pt too wide) in paragraph at lines 20--20
+ [][] [][]\T1/ptm/m/n/14.4 Ak-tyw-no±¢ fo-to-syn-te-zy Mi-skan-ta ol-brzy-mie-g
+o \T1/ptm/m/it/14.4 (Mi-scan-thus si-nen-sis gi-gan-tea) \T1/ptm/m/n/14.4 w okr
+e-sie 
  []
 
 [4
 
-])
+]
+Overfull \hbox (33.2439pt too wide) in paragraph at lines 21--21
+ \T1/ptm/m/n/14.4 de-tek-cji wy-ªa-do-wa« at-mos-fe-rycz-nych, ob-ser-wa-cji na
+-ziem-nych, re-ana-liz, 
+ []
+
+
+Overfull \hbox (28.37767pt too wide) in paragraph at lines 25--25
+ \T1/ptm/m/n/14.4 przy-szkol-ne-go ogród-ka me-te-oro-lo-gicz-ne-go w ra-mach p
+ro-jek-tu "Še-je-ry! 
+ []
+
+
+Overfull \hbox (34.4392pt too wide) in paragraph at lines 26--26
+ [][] [][]\T1/ptm/m/n/14.4 Bi-lans ra-dia-cyj-ny ob-sza-rów ba-gien-nych -- ba-
+da-nia pi-lo-ta-»o-we w Bie-brza«-skim 
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `boa.toc'.
 
@@ -1691,50 +1751,247 @@ LaTeX Font Info:    Try loading font information for TS1+ptm on input line 33.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Overfull \hbox (2.3706pt too wide) in paragraph at lines 33--34
-\T1/ptm/m/n/14.4 nicz-ne po-cho-dz¡-ce z sek-to-ra komunalno-bytowego, prze-my-
-sªu oraz ±rod-ków trans-
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 miast oraz aglo-me-ra-cji miejsko-przemysªowych. ™ró-dªem py-ª
+o-wych i
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 ga-zo-wych za-nie-czysz-cze« po-wie-trza na ob-sza-rach miej-s
+kich s¡ gªów-nie
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 oraz ±rod-ków trans-por-tu. Jak wska-zu-j¡ licz-ne ba-da-nia e
+pi-de-mio-lo-gicz-ne,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 za-nie-czysz-cze-nia at-mos-fe-rycz-ne, zwªasz-cza py-ªy drob-
+ne o ±red-ni-cach
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 35--36
+[]\T1/ptm/m/n/14.4 Celem pra-cy jest oce-na za-nie-czysz-cze-nia po-wie-trza py
+-ªem za-wie-szo-nym
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 obej-mo-wa-ªy Mie-chów. Mia-sto po-ªo-»o-ne jest w wo-je-wódz-
+twie ma-ªo-pol-skim
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 od Kra-ko-wa i 80 ki-lo-me-trów od Kielc. Ma po-wierzch-ni¦ 15
+,49 km\TS1/ptm/m/n/14.4 ² \T1/ptm/m/n/14.4 oraz
  []
 
 [1
 
 
-])
+]
+Underfull \hbox (badness 1735) in paragraph at lines 37--38
+\T1/ptm/m/n/14.4 tem-pe-ra-tu-ra po-wie-trza, wil-got-no±¢ oraz ci-±nie-nie do-
+ko-naª ko-re-la-cji ja-ko-±ci
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./abstrakty/Bilinska.tex)
+[2] (./abstrakty/Bilinska.tex
+Underfull \hbox (badness 2384) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Wykorzystanie mo-de-lu HY-SPLIT do ozna-cza-nia ob-sza-rów
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 33--34
+[]\T1/ptm/m/n/14.4 Celem tej pra-cy by-ªo zba-da-nie re-la-cji po-mi¦-dzy na-pª
+y-wa-j¡-cy-mi ma-sa-mi
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 36--37
+[]\T1/ptm/m/n/14.4 Dobowe st¦-»e-nia pyª-ku obej-mo-wa-ªy la-ta 2005 - 2014. Po
+-mia-ry by-ªy
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 42--43
+[]\T1/ptm/m/n/14.4 Na pod-sta-wie tej pra-cy, po-twier-dzo-no ist-nie-nie roz-p
+o-zna-nych wcze-±niej
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 42--43
+\T1/ptm/m/n/14.4 cen-trów wy-st¦-po-wa-nia Am-bro-zji ta-kich jak Ko-tli-na Pa-
+no«-ska i Ukra-ina.
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3] (./abstrakty/Cybulski.tex)
+[3] (./abstrakty/Cybulski.tex
+Underfull \hbox (badness 7451) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Wykorzystanie ana-lo-gu ªa-zi-ka mar-sja«-skie-go w ba-da-niu
+
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 tam naj-bar-dziej zbli-»o-ne do mar-sja«-skich re-aliów. Ba-da
+-nia prze-pro-wa-dza-ne
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 jest kom-pu-ter po-kªa-do-wy SB-Rio. Ko-mu-ni-ku-je si¦ on z p
+o-szcze-gól-ny-mi
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 pod-ze-spo-ªa-mi plat-for-my za po-mo-c¡ in-ter-fej-su CAN. Za
+ ob-sªu-g¦ mo-du-ªu
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 ba-daw-cze-go (prób-ni-ka) od-po-wia-da de-dy-ko-wa-na elek-tr
+o-ni-ka, któ-r¡ za-rz¡-dza
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4] (./abstrakty/Dziembor.tex)
+[4] (./abstrakty/Dziembor.tex
+Underfull \hbox (badness 2334) in paragraph at lines 33--34
+[]\T1/ptm/m/n/14.4 Aerozole mor-skie s¡ emi-to-wa-ne do at-mos-fe-ry naj-in-ten
+-syw-niej pod-czas
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 ±wia-tªa, al-be-do chmur czy pro-ce-sy oczysz-cza-nia war-stwy
+ gra-nicz-nej z
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5] (./abstrakty/Franczyk.tex)
+[5] (./abstrakty/Franczyk.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 i ja-ko±¢ »yw-no-±ci a ini-cja-ty-wa '4%' (na przy-kªa-dzie
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 s¡ wa»-nym je-go zbior-ni-kiem oraz od-gry-wa-j¡ zna-cz¡-c¡ ro
+-l¦ w zmia-nach
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 kli-ma-tycz-nych. Na-wet ma-ªe zmia-ny ilo-±cio-we zma-ga-zy-n
+o-wa-ne-go w¦-glu
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 or-ga-nicz-ne-go w gle-bie (SOCS) mo-g¡ mie¢ du-»y wpªyw na ko
+n-cen-tra-cj¦
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 glo-bal-ne-go ocie-ple-nia. Wa»-n¡ ro-l¦ w pró-bie ogra-ni-cze
+-nia te-go zja-wi-ska, a
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 Kli-ma-tycz-ne w Pa-ry-»u z 2015 ro-ku oraz Ini-cja-ty-wa 4/10
+00, ma-j¡-ce na
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 SOCS w gle-bie. Gªów-nym za-ªo-»e-niem w pra-cy jest okre-±le-
+nie za-war-to-±ci
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 w¦-gla or-ga-nicz-ne-go w gle-bie w ró»-nych wa-run-kach na pr
+zy-kªa-dzie ga-jów
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 oliw-nych w Tor-re-del-cam-po oraz ewen-tu-al-ne pro-gno-zy w 
+od-nie-sie-niu do
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 z 2015 ro-ku oraz Ini-cja-ty-wy "4/1000 ^^U gle-by dla bez-pie
+cz-nej »yw-no-±ci
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 32--33
+\T1/ptm/m/n/14.4 roz-wi¡-za« w ce-lu ogra-ni-cze-nia po-st¦-pu-j¡-ce-go glo-bal
+-ne-go ocie-ple-nia oraz
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6] (./abstrakty/Guzik.tex)
+[6] (./abstrakty/Guzik.tex
+Underfull \hbox (badness 1762) in paragraph at lines 33--34
+[]\T1/ptm/m/n/14.4 Zmiany tem-pe-ra-tu-ry po-wie-trza z dnia na dzie« s¡ istot-
+ne nie tyl-ko z
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 kli-ma-tu te-go ob-sza-ru. Ko-tli-ny ce-chu-j¡ si¦ du-»¡ zmien
+-no-±ci¡ tem-pe-ra-tu-ry
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 37--38
+[]\T1/ptm/m/n/14.4 Celem pre-zen-ta-cji jest cha-rak-te-ry-sty-ka du-»ych zmian
+ (wi¦k-szych \TS1/ptm/m/n/14.4 ±\T1/ptm/m/n/14.4 6\TS1/ptm/m/n/14.4 °\T1/ptm/m/
+n/14.4 C)
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1742,9 +1999,68 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7] (./abstrakty/Kendzierski.tex
-Overfull \hbox (0.58421pt too wide) in paragraph at lines 35--37
-\T1/ptm/m/n/14.4 oro-lo-gicz-nych dla ob-sza-ru za-chod-niej cz¦-±ci Za-to-ki P
-e-tu-nia-buk-ta (Sval-bard) w lip-
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 Wpªyw wa-run-ków syn-op-tycz-nych na wiel-ko±¢ i ro-dzaj
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 za-chmu-rze-nia na Sval-bar-dzie w let-nim se-zo-nie ba-daw-c
+zym
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 me-te-oro-lo-gicz-nych dla ob-sza-ru za-chod-niej cz¦-±ci Za-t
+o-ki Pe-tu-nia-buk-ta
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 (Sval-bard) w lip-cu i sierp-niu 2016 ro-ku. Pod-sta-w¡ ana-li
+-zy s¡ da-ne
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 ob-ser-wa-cyj-ne pro-wa-dzo-ne w po-bli-»u Sta-cji Po-lar-nej 
+Uni-wer-sy-te-tu im.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 Ada-ma Mic-kie-wi-cza w Po-zna-niu oraz da-ne ob-ser-wa-cyj-ne
+ ze sta-cji
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 me-te-oro-lo-gicz-nej Svalbard-Lufthavn. W prze-pro-wa-dzo-nej
+ ana-li-zie do-ko-na-no
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 da-ne z re-ana-liz me-te-oro-lo-gicz-nych (NCEP/NCAR) do-ty-cz
+¡-ce ±red-nie-go
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 tem-pe-ra-tu-ry po-wie-trza na wy-so-ko-±ci geo-po-ten-cjal-ne
+j 850 hPa (T850) dla
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 ze ±red-ni¡ sy-tu-acj¡ syn-op-tycz-n¡ dla lip-ca i sierp-nia z
+ okre-su 1948-2016
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 36--38
+\T1/ptm/m/n/14.4 two-rz¡c kom-po-zy-to-we ma-py ano-ma-lii wzi¦-tych pod uwa-g¦
+ ele-men-tów
  []
 
 )
@@ -1754,21 +2070,94 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8] (./abstrakty/Kolendowicz.tex)
+[8] (./abstrakty/Kolendowicz.tex
+Underfull \hbox (badness 3646) in paragraph at lines 34--35
+[]\T1/ptm/m/n/14.4 Prezentowane re-zul-ta-ty ba-da« opie-ra-j¡ si¦ na da-nych z
+e-bra-nych z 8
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 oraz je-zio-ra chªo-du (UCL) w po-szcze-gól-nych punk-tach po-
+mia-ro-wych oraz
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 zja-wisk. Okre-±lo-no rów-nie» ±red-nie sy-tu-acje syn-op-tycz
+-ne to-wa-rzy-sz¡-ce ich
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 eks-tre-mal-nym na-t¦-»e-niom. Re-zul-ta-ty ba-da« po-la tem-p
+e-ra-tu-ry na ob-sza-rze
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9] (./abstrakty/Kupczyk.tex)
+[9] (./abstrakty/Kupczyk.tex
+Underfull \hbox (badness 7522) in paragraph at lines 33--34
+[]\T1/ptm/m/n/14.4 Opracowanie do-ty-czy po-rów-na-nia bi-blio-tek j¦-zy-ka R, 
+sªu-»¡-cych do
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 wi-zu-ali-za-cji da-nych syn-op-tycz-nych. Po-rów-na-no funk-c
+je: \T1/ptm/m/it/14.4 tmap\T1/ptm/m/n/14.4 , \T1/ptm/m/it/14.4 ggplot\T1/ptm/m/
+n/14.4 , oraz
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 33--34
+\T1/ptm/m/it/14.4 plot\T1/ptm/m/n/14.4 . Re-fe-rat za-wie-ra ele-men-ty oce-ny 
+szyb-ko-±ci wy-ko-ny-wa-nia funk-cji, a
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 tak-»e mo»-li-wo-±ci ich wy-ko-rzy-sta-nia w au-to-ma-ty-za-cj
+i da-nych. Pra-ca opie-ra
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 si¦ o sa-mo-dziel-nie przy-go-to-wa-ne funk-cje te-stu-j¡-ce, 
+a tak-»e wy-ko-rzy-sta-ne
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10] (./abstrakty/Pilguj.tex)
+[10] (./abstrakty/Pilguj.tex
+Underfull \hbox (badness 1107) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 zo-sta-ªy pod-da-ne dal-szym ana-li-zom sta-ty-stycz-nym. Na w
+spo-mnia-ne in-dek-sy
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 kie-run-ku wia-tru miesz-cz¡ si¦ w okre-±lo-nych prze-dzia-ªac
+h. Gªów-n¡ cz¦±¢
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 dla sta-cji Ho-pen i Ny Ale-sund. In-dek-sy kie-run-ku wia-tru
+ cha-rak-te-ry-zu-j¡
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1776,18 +2165,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [11] (./abstrakty/Plewa.tex
-Overfull \hbox (1.1165pt too wide) in paragraph at lines 32--33
-\T1/ptm/m/n/14.4 czªo-wie-ka. W Pol-sce na zmien-no±¢ wa-run-ków kli-ma-tycz-ny
-ch do±¢ wy-ra¹-nie wpªy-
+Underfull \hbox (badness 5696) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 Okresy hy-dro-lo-gicz-ne na wy-bra-nych je-zio-rach w Pol-sce
+
  []
 
 
-Overfull \hbox (1.34679pt too wide) in paragraph at lines 32--33
-\T1/ptm/m/n/14.4 wa na-t¦-»e-nie Oscy-la-cji Póª-noc-no-atlan-tyc-kiej (NAO), d
-la-te-go ce-lem pra-cy jest usta-
+Underfull \hbox (badness 2205) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 mi¦-dzy pen-ta-da-mi z punk-tu wi-dze-nia zgod-no-±ci roz-kªa-
+dów wy-st¦-po-wa-nia
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 W pra-cy wy-ko-rzy-sta-no co-dzien-ne war-to-±ci sta-nów wo-dy
+ dla 10 je-zior
  []
 
 )
+Overfull \hbox (8.01384pt too wide) in paragraph at lines 36--186
+[]\T1/ptm/m/n/14.4 Przeprowadzone ba-da-nia po-twier-dzi-ªy, »e wpªyw Oscy-la-c
+ji Póª-noc-no-atlan-tyc-kiej
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1795,15 +2195,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [12] (./abstrakty/Poreba.tex
-Overfull \hbox (1.96643pt too wide) in paragraph at lines 36--37
-\T1/ptm/m/n/14.4 so-kie-go ci-±nie-nia. W gór-nej tro-pos-fe-rze wy-st¦-po-waª 
-znacz-ny, za-chod-ni i póªnocno-
+Underfull \hbox (badness 1168) in paragraph at lines 34--35
+[]\T1/ptm/m/n/14.4 7 lip-ca 2017 ro-ku w po-ªu-dnio-wej i za-chod-niej Pol-sce 
+wy-st¡-pi-ªy licz-ne
  []
 
 
-Overfull \hbox (13.14043pt too wide) in paragraph at lines 38--39
-\T1/ptm/m/n/14.4 ESWD oraz po-mia-ry od-bi-cio-wo-±ci ra-da-ro-wej i wid-ma wia
--tru dop-ple-row-skie-go z ró»-
+Underfull \hbox (badness 7558) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 o sza-co-wa-nej si-le F2 w ska-li Fu-ji-ty. W wie-lu miej-scac
+h wy-st¡-pi-ªy
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 opa-dy gra-du, któ-re-go roz-mia-ry osi¡-gn¦-ªy na-wet 5 cm, a
+ po-ry-wy wia-tru
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 spo-wo-do-wa-ªy licz-ne znisz-cze-nia. Ana-li-za da-nych ra-da
+-ro-wych po-zwo-li-ªa
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 34--35
+\T1/ptm/m/n/14.4 stwier-dzi¢ kla-sycz-ny cha-rak-ter su-per-ko-mó-rek z wy-ra¹-
+nie wy-ksztaª-co-ny-mi
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 36--37
+\T1/ptm/m/n/14.4 znad ±rod-ko-wych Nie-miec. Wschod-nia cz¦±¢ kra-ju by-ªa pod 
+wpªy-wem
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 36--37
+\T1/ptm/m/n/14.4 kli-na wy-so-kie-go ci-±nie-nia. W gór-nej tro-pos-fe-rze wy-s
+t¦-po-waª znacz-ny,
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 36--37
+\T1/ptm/m/n/14.4 za-chod-ni i póªnocno-zachodni prze-pªyw po-wie-trza. Ta-ki ro
+z-kªad ba-rycz-ny
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\T1/ptm/m/n/14.4 W opra-co-wa-niu wy-ko-rzy-sta-no da-ne ze sta-cji syn-op-ty
+cz-nych,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\T1/ptm/m/n/14.4 Celem opra-co-wa-nia by-ªo wy-szcze-gól-nie-nie cha-rak-te-r
+y-stycz-nych cech
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 40--41
+\T1/ptm/m/n/14.4 su-per-ko-mó-rek bu-rzo-wych za po-mo-c¡ da-nych ra-da-ro-wych
+ oraz okre-±le-nie
  []
 
 )
@@ -1813,7 +2267,36 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13] (./abstrakty/Ptak.tex)
+[13] (./abstrakty/Ptak.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 Wpªyw wy-bra-nych ma-kro-ska-lo-wych ty-pów cyr-ku-la-cji
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 35--36
+[]\T1/ptm/m/n/14.4 Celem pra-cy jest okre-±le-nie wpªy-wu wy-bra-nych ma-kro-sk
+a-lo-wych ty-pów
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 je-zior. Okre-±lo-no tak-»e od-chy-le-nia war-to-±ci tych ele-
+men-tów w ró»-nych
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 na tem-pe-ra-tu-r¦ wo-dy za-ob-ser-wo-wa-no zi-m¡, kie-dy szcz
+e-gól-nie wi-docz-ny
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 wpªyw mia-ªa cyr-ku-la-cja AO. Od-chy-le-nia tem-pe-ra-tu-ry w
+o-dy w sto-sun-ku
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1821,13 +2304,77 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [14] (./abstrakty/Skomorowski.tex)
+Overfull \hbox (30.37604pt too wide) in paragraph at lines 33--192
+[]\T1/ptm/m/n/14.4 Mgªa to zja-wi-sko at-mos-fe-rycz-ne, któ-re po-przez zmniej
+-sze-nie wi-dzial-no-±ci po-zio-mej,
+ []
+
+
+Overfull \hbox (5.82501pt too wide) in paragraph at lines 33--192
+\T1/ptm/m/n/14.4 w zna-cz¡-cy spo-sób utrud-nia bez-piecz-ne prze-miesz-cza-nie
+ si¦. Miej-scem szcze-gól-nie
+ []
+
+
+Overfull \hbox (15.50252pt too wide) in paragraph at lines 33--192
+\T1/ptm/m/n/14.4 Spraw-no±¢ oraz bez-pie-cze«-stwo pro-ce-dur ta-kich jak: l¡-d
+o-wa-nia, star-tu czy ko-ªo-wa-nia
+ []
+
+
+Overfull \hbox (9.51178pt too wide) in paragraph at lines 33--192
+\T1/ptm/m/n/14.4 mgªy ule-ga znacz-ne-mu wy-dªu-»e-niu. Pierw-sze sys-te-my ma-
+j¡-ce za za-da-nie roz-pra-sza¢
+ []
+
+
+Overfull \hbox (2.48378pt too wide) in paragraph at lines 33--192
+\T1/ptm/m/n/14.4 mgª¦? W ni-niej-szej pre-zen-ta-cji przed-sta-wio-no wy-bra-ne
+ spo-so-by roz-pra-sza-nia mgªy
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15] (./abstrakty/Sekowski.tex)
+[15] (./abstrakty/Sekowski.tex
+Underfull \hbox (badness 6268) in paragraph at lines 9--9
+\T1/ptm/b/n/17.28 Rozmieszczenie win-nic w Pol-sce w po-wi¡-za-niu z sie-ci¡
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 38--39
+\T1/ptm/m/n/14.4 w Pol-sce mo»-li-wa jest syn-te-tycz-na cha-rak-te-ry-sty-ka m
+e-zo-kli-ma-tu, a dzi¦-ki
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 40--41
+[]\T1/ptm/b/n/14.4 Metody: \T1/ptm/m/n/14.4 Po-przez in-wen-ta-ry-za-cj¦ na pod
+-sta-wie wi-tryn in-ter-ne-to-wych
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 40--41
+\T1/ptm/m/n/14.4 wy-ko-na-nej w pro-gra-mie Arc-Gis przed-sta-wio-no roz-miesz-
+cze-nie win-nic oraz
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 42--43
+[]\T1/ptm/b/n/14.4 Wyniki: \T1/ptm/m/n/14.4 Ze-sta-wie-nie obej-mu-je 395 pol-s
+kich win-nic. Ma-pa przed-sta-wia
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 42--43
+\T1/ptm/m/n/14.4 roz-miesz-cze-nie win-nic wzgl¦-dem sta-cji me-te-oro-lo-gicz-
+nych IMGW oraz
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1836,11 +2383,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [16] (./abstrakty/Solecki.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 6.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 7.
 
-Overfull \hbox (11.21155pt too wide) in paragraph at lines 32--34
+Underfull \hbox (badness 6428) in paragraph at lines 33--35
 []\T1/ptm/m/it/14.4 Downburst \T1/ptm/m/n/14.4 to zja-wi-sko sil-ne-go pr¡-du z
-st¦-pu-j¡-ce-go, któ-ry ude-rza o grunt z ogrom-
+st¦-pu-j¡-ce-go, któ-ry ude-rza o
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 33--35
+\T1/ptm/m/n/14.4 du-»e za-gro-»e-nie dla lot-nic-twa. Pierw-szy udo-ku-men-to-w
+a-ny przy-pa-dek te-go
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\T1/ptm/m/n/14.4 te-go zja-wi-ska. Do ana-li-zy wy-ko-rzy-sta-no ma-py syn-op-t
+ycz-ne, ob-ra-zy
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 38--39
+\T1/ptm/m/n/14.4 sa-te-li-tar-ne i zdj¦-cia z miej-sca zda-rze-nia. Po-sªu-»o-n
+o si¦ te» dia-gra-ma-mi
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 38--39
+\T1/ptm/m/n/14.4 ae-ro-lo-gicz-ny-mi, na pod-sta-wie któ-rych ob-li-czo-no wska
+¹-ni-ki: kon-wek-cyj-ne,
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 40--41
+[]\T1/ptm/m/n/14.4 Wykazano, »e opi-sy-wa-ny przy-pa-dek miaª miej-sce w wa-run
+-kach sil-nej
  []
 
 )
@@ -1850,14 +2427,173 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17] (./abstrakty/Swider.tex)
+[17] (./abstrakty/Swider.tex
+Underfull \hbox (badness 4518) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 Aktywno±¢ fo-to-syn-te-zy Mi-skan-ta ol-brzy-mie-go \T1/ptm/b
+/it/17.28 (Mi-scan-thus
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 33--34
+[]\T1/ptm/m/n/14.4 W Pol-sce, jak i rów-nie» w in-nych kra-jach Unii Eu-ro-pej-
+skiej, ro-±nie
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 za-in-te-re-so-wa-nie upra-w¡ ro-±lin ener-ge-tycz-nych. Czyn-
+ni-ki me-te-oro-lo-gicz-ne
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 ta-kie jak: wy-so-ko±¢ opa-dów at-mos-fe-rycz-nych, ±wia-tªo, 
+wa-ha-nia war-to-±ci
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 tem-pe-ra-tu-ry ma-j¡ du-»y wpªyw na wzrost i roz-wój ro-±lin 
+w okre-sie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 we-ge-ta-cji. W szcze-gól-no-±ci, w wa-run-kach kli-ma-tycz-ny
+ch Pol-ski,
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 gle-by w wo-d¦. Do-st¦p-no±¢ wo-dy dla ro-±lin ma istot-ny wpª
+yw na pro-ces
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 szpar-ko-wych, przez co przy-czy-nia si¦ do po-lep-sze-nia wy-
+mian ga-zo-wej.
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 Wy-st¦-po-wa-nie okre-sów su-szy mo-»e do-pro-wa-dzi¢ do nie-d
+o-sta-tecz-nej ilo-±ci
+ []
+
+)
+Overfull \hbox (13.15543pt too wide) in paragraph at lines 35--198
+\T1/ptm/m/n/14.4 (Mi-scan-thus si-nen-sis gi-gan-tea) w dwóch wa-rian-tach do-s
+t¦p-no-±ci do wo-dy grun-to-wej.
+ []
+
+
+Overfull \hbox (23.98434pt too wide) in paragraph at lines 35--198
+\T1/ptm/m/n/14.4 Upra-wa eks-ten-syw-na mi-skan-ta ol-brzy-mie-go pro-wa-dzo-na
+ jest na te-re-nie Wy-dzia-ªo-we-go
+ []
+
+
+Overfull \hbox (112.19699pt too wide) in paragraph at lines 35--198
+\T1/ptm/m/n/14.4 Ob-ser-wa-to-rium Agro i Hy-dro-me-te-oro-lo-gii, Wy-dzia-ªu I
+n-»y-nie-rii Ksztaª-to-wa-nia ‘ro-do-wi-ska i Geo-de-zji,
+ []
+
+
+Overfull \hbox (0.57051pt too wide) in paragraph at lines 35--198
+\T1/ptm/m/n/14.4 Uni-wer-sy-te-tu Przy-rod-ni-cze-go we Wro-cªa-wiu. Po-mia-ry 
+by-ªy pro-wa-dzo-ne w okre-sie
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18] (./abstrakty/Taszarek.tex)
+[18] (./abstrakty/Taszarek.tex
+Underfull \hbox (badness 7291) in paragraph at lines 8--8
+\T1/ptm/b/n/17.28 Klimatologiczne aspek-ty burz w Eu-ro-pie -- po-rów-na-nie
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 8--8
+\T1/ptm/b/n/17.28 na-ziem-nych, re-ana-liz, ra-dio-son-da-»y oraz ra-por-tów ES
+WD
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 35--36
+[]\T1/ptm/m/n/14.4 Niebezpieczne zja-wi-ska at-mos-fe-rycz-ne zwi¡-za-ne z gª¦-
+bo-k¡ kon-wek-cj¡
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 stwa-rza-j¡ du-»e za-gro-»e-nie dla »y-cia i mie-nia ludz-kie-
+go. Ka»-de-go
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 a w sa-mej Pol-sce oko-ªo dzie-si¦-ciu. Po-mi-mo za-gro-»e-nia
+ ja-kie te zja-wi-ska
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 ge-ne-ru-j¡, nie-wie-le prac na-uko-wych zo-sta-ªo po-±wi¦-ca-
+nych wy-st¦-po-wa-niu
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 37--38
+[]\T1/ptm/m/n/14.4 Gªównym ce-lem ba-da« jest ana-li-za cy-kli rocz-nych dni z 
+bu-rza-mi oraz
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 37--38
+\T1/ptm/m/n/14.4 sil-ny-mi bu-rza-mi obej-mu-j¡-ca la-ta 1979-2017 (39 lat) i o
+b-szar Eu-ro-py. W
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 37--38
+\T1/ptm/m/n/14.4 pra-cy po-rów-ny-wa-ne s¡ da-ne z sie-ci de-tek-cji wy-ªa-do-w
+a« at-mos-fe-rycz-nych
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 37--38
+\T1/ptm/m/n/14.4 SY-NOP), re-ana-li-za ERA-Interim, son-do-wa-nia at-mos-fe-ryc
+z-ne oraz ra-por-ty
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 37--38
+\T1/ptm/m/n/14.4 od-po-wia-da-j¡-cych za po-wsta-wa-nie burz oraz sil-nych burz
+. Na-st¦p-nie przy
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 37--38
+\T1/ptm/m/n/14.4 cha-rak-te-ry-sty-ka kli-ma-to-lo-gicz-na ww. sta-nów at-mos-f
+e-ry. Uzy-ska-ne wy-ni-ki
+ []
+
+)
+Overfull \hbox (6.37213pt too wide) in paragraph at lines 39--200
+[]\T1/ptm/m/n/14.4 Uzyskane wy-ni-ki wska-zu-j¡, »e bu-rze wy-st¦-pu-j¡ naj-cz¦
+-±ciej na Póª-wy-spie Apeni-
+ []
+
+
+Overfull \hbox (2.88869pt too wide) in paragraph at lines 39--200
+\T1/ptm/m/n/14.4 40 lat za-no-to-wa-ny zo-staª wzrost licz-by burz w póª-noc-ne
+j cz¦-±ci Eu-ro-py oraz spa-dek
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1865,15 +2601,39 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [19] (./abstrakty/Pawliczek.tex
-Overfull \hbox (2.51442pt too wide) in paragraph at lines 32--33
-\T1/ptm/m/n/14.4 niej tem-pe-ra-tu-ry rocz-nej, wy-dªu-»a si¦ tak-»e okres we-g
-e-ta-cyj-ny -- ze 141 dni w okre-
+Underfull \hbox (badness 3386) in paragraph at lines 33--34
+[]\T1/ptm/m/n/14.4 Na pod-sta-wie da-nych po-mia-ro-wych ze Szre-ni-cy i Lab-sk
+iej Bo-udy z
  []
 
 
-Overfull \hbox (18.78738pt too wide) in paragraph at lines 32--33
-\T1/ptm/m/n/14.4 my opa-dów w póª-ro-czu chªod-nym, któ-re w la-tach 2001--2015
- ma-j¡ rów-ny udziaª w su-
+Underfull \hbox (badness 2735) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 lat 1961--2015, ob-li-czo-no sze-reg wska¹-ni-ków bio-kli-ma-t
+ycz-nych. Wraz ze
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 -- ze 141 dni w okre-sie 1961--1970 do 162 dni w la-tach 2001-
+-2015.
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 ‘red-nia war-to±¢ in-dek-sów kon-ty-nen-ta-li-zmu ter-micz-ne-
+go Gor-czy«-skie-go i
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 Johanssona-Ringleba nie wy-ka-zu-je zmian w prze-bie-gu wie-lo
+-let-nim. Po-±ród
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 in-dek-sów plu-wio-ter-micz-nych, ro-sn¡-ca na prze-strze-ni l
+at war-to±¢ in-dek-su
  []
 
 )
@@ -1883,14 +2643,54 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20] (./abstrakty/Piasecki.tex)
+[20] (./abstrakty/Piasecki.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 Charakterystyka od-bi-cio-wo-±ci w ob-r¦-bie ukªa-du MCC
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 bar-dzo roz-le-gªe szko-dy wy-wo-ªa-ne wia-tra-mi pro-sto-li-n
+io-wy-mi. Do Eu-ro-pe-an
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 gro¹-nych zja-wisk, z cze-go 1182 ra-por-ty sta-no-wi-ªy in-fo
+r-ma-cje o szko-dach
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21] (./abstrakty/Radziun.tex)
+[21] (./abstrakty/Radziun.tex
+Underfull \hbox (badness 3428) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 Zmienno±¢ opa-dów at-mos-fe-rycz-nych w okre-sie 1961--2015
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 rocz-nych i se-zo-no-wych opa-dów at-mos-fe-rycz-nych od ±red-
+niej wie-lo-let-niej.
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 i zi-m¡ (0,1 mm/rok). Ob-ser-wo-wa-ne ten-den-cje se-zo-no-wyc
+h sum opa-dów
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 si¦ 2010 r. Naj-wi¦k-szy nie-do-bór o 171 mm po-ni-»ej ±red-ni
+ej wie-lo-let-niej
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1898,9 +2698,79 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [22] (./abstrakty/Sypniewski.tex
-Overfull \hbox (10.23186pt too wide) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 Szkoªa, uni-wer-sy-tet i biz-nes ja-ko w¦-zªy sie-ci
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 ucz¡-cej si¦. Kon-struk-cja przy-szkol-ne-go ogród-ka
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 7--7
+\T1/ptm/b/n/17.28 me-te-oro-lo-gicz-ne-go w ra-mach pro-jek-tu "Še-je-ry! Co to
+ za
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 szko-ª¦, stwa-rza-j¡c uczniom atrak-cyj-n¡ al-ter-na-ty-w¦ roz
+-wo-ju (Dy-lak, 2013)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 []\T1/ptm/m/n/14.4 Konektywizm po-strze-ga wie-dz¦ ja-ko zbiór po-ª¡-cze« sie-c
-io-wych po-mi¦-dzy obiek-
+io-wych
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 po-mi¦-dzy obiek-ta-mi, na-to-miast ucze-nie si¦ jest w tej pe
+r-spek-ty-wie
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 two-rze-niem i roz-wi-ja-niem ta-kich po-ª¡-cze« (Do-wnes, 201
+7). Re-ali-za-cja
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 wy-zna-czo-nych ce-lów od-by-wa si¦ po-przez oso-bi-ste do-±wi
+ad-cze-nie ucznia,
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 pro-wa-dzo-ne-go przy udzia-le trzech pod-mio-tów: 1) szko-ªy 
+(or-ga-ni-za-to-ra
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 pro-jek-tu), 2) Wy-dzia-ªu Na-uk Geo-gra-ficz-nych i Geo-lo-gi
+cz-nych (pa-tro-na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 me-ry-to-rycz-ne-go przed-si¦-wzi¦-cia) oraz 3) fir-my Enea (s
+pon-so-ra Enea
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 kon-struk-ty-wi-zmu. Gªów-nym ce-lem pro-jek-tu jest ak-ty-wi-
+za-cja i in-te-gra-cja
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/ptm/m/n/14.4 spo-ªecz-no-±ci szkol-nej (uczniów, na-uczy-cie-li, ro-dzi-ców
+) oraz part-ne-rów
  []
 
 )
@@ -1910,14 +2780,50 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23] (./abstrakty/Wieczorek.tex)
+[23] (./abstrakty/Wieczorek.tex
+Underfull \hbox (badness 1043) in paragraph at lines 39--40
+\T1/ptm/m/n/14.4 naj-ni»-szy-mi w okre-sie zi-mo-wym, i naj-wy»-szy-mi la-tem. 
+Dla ca-ªe-go okre-su
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24] (./abstrakty/Wilk.tex)
+[24] (./abstrakty/Wilk.tex
+Underfull \hbox (badness 4266) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 na te-re-nach o zwar-tej za-bu-do-wie. Cha-rak-te-ry-zu-je si¦
+ ona pod-wy»-szo-n¡
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 tem-pe-ra-tu-r¡ po-wie-trza w mie-±cie, w sto-sun-ku do te-re-
+nów je ota-cza-j¡-cych.
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 Fe-no-men ten po-sia-da cha-rak-te-ry-stycz-ny roz-kªad prze-s
+trzen-ny, a tak-»e swój
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 33--34
+\T1/ptm/m/n/14.4 cykl do-bo-wy i se-zo-no-wy zwi¡-za-ny z czyn-ni-ka-mi urba-ni
+-stycz-ny-mi oraz
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 35--36
+[]\T1/ptm/m/n/14.4 Celem opra-co-wa-nia jest za-pre-zen-to-wa-nie pod-sta-wo-wy
+ch cha-rak-te-ry-styk
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1927,26 +2833,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [25]
 Rozdzia\PlPrIeC {\l } 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 225.
+(Font)              scaled to size 11.03998pt on input line 224.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 225.
+(Font)              scaled to size 8.27998pt on input line 224.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 225.
+(Font)              scaled to size 6.43999pt on input line 224.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 225.
+(Font)              scaled to size 11.03998pt on input line 224.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 225.
+(Font)              scaled to size 8.27998pt on input line 224.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 225.
+(Font)              scaled to size 6.43999pt on input line 224.
 
-Overfull \hbox (23.07787pt too wide) in paragraph at lines 225--259
+Overfull \hbox (23.07787pt too wide) in paragraph at lines 224--258
 [][] 
  []
 
 [26
 
 ]
-Overfull \hbox (16.64609pt too wide) in paragraph at lines 270--314
+Overfull \hbox (16.64609pt too wide) in paragraph at lines 269--313
 [][] 
  []
 
@@ -1963,20 +2869,20 @@ runsystem(makeindex a.idx)...executed safely (allowed).
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
  (./boa.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
 Package rerunfilecheck Info: File `boa.out' has not changed.
-(rerunfilecheck)             Checksum: FEBB4586591A441B6BAB4DDB3FC7FED5;3546.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 326.
+(rerunfilecheck)             Checksum: 7B158392B145B25872FE9758637D13E9;3549.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 325.
  ) 
 Here is how much of TeX's memory you used:
- 17934 strings out of 494344
- 294941 string characters out of 6164288
- 368712 words of memory out of 5000000
- 20809 multiletter control sequences out of 15000+600000
+ 17968 strings out of 494344
+ 295435 string characters out of 6164288
+ 369470 words of memory out of 5000000
+ 20839 multiletter control sequences out of 15000+600000
  107683 words of font info for 125 fonts, out of 8000000 for 9000
  370 hyphenation exceptions out of 8191
  41i,11n,44p,10472b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1988,10 +2894,10 @@ f-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist
 mb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on boa.pdf (34 pages, 162787 bytes).
+Output written on boa.pdf (34 pages, 162230 bytes).
 PDF statistics:
- 448 PDF objects out of 1000 (max. 8388607)
- 400 compressed objects within 4 object streams
+ 446 PDF objects out of 1000 (max. 8388607)
+ 398 compressed objects within 4 object streams
  77 named destinations out of 1000 (max. 500000)
  233 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,7 +5,7 @@
 \contentsline {section}{Wykorzystanie modelu HYSPLIT do oznaczania obszar\IeC {\'o}w \IeC {\'z}r\IeC {\'o}d\IeC {\l }owych py\IeC {\l }ku Ambrozji we Wroc\IeC {\l }awiu}{3}{Item.1}
 \contentsline {section}{Wykorzystanie analogu \IeC {\l }azika marsja\IeC {\'n}skiego\nobreakspace {}w\nobreakspace {}badaniu wybranych parametr\IeC {\'o}w meteorologicznych}{4}{Item.3}
 \contentsline {section}{Strumienie aerozolu morskiego na Morzu Grenlandzkim }{5}{Item.5}
-\contentsline {section}{Wp\IeC {\l }yw w\IeC {\k e}gla organicznego\nobreakspace {}w\nobreakspace {}glebie na zmiany klimatyczne i jako\IeC {\'s}\IeC {\'c} \IeC {\.z}ywno\IeC {\'s}ci a inicjatywa '4\%' (na przyk\IeC {\l }adzie Torredelcampo\nobreakspace {}w\nobreakspace {}prowincji Jaen\nobreakspace {}w\nobreakspace {}Hiszpanii)}{6}{Item.7}
+\contentsline {section}{Wp\IeC {\l }yw w\IeC {\k e}gla organicznego\nobreakspace {}w\nobreakspace {}glebie na zmiany klimatyczne i\nobreakspace {}jako\IeC {\'s}\IeC {\'c} \IeC {\.z}ywno\IeC {\'s}ci a inicjatywa '4\%' (na przyk\IeC {\l }adzie Torredelcampo\nobreakspace {}w\nobreakspace {}prowincji Jaen\nobreakspace {}w\nobreakspace {}Hiszpanii)}{6}{Item.7}
 \contentsline {section}{Du\IeC {\.z}e zmiany \IeC {\'s}redniej dobowej temperatury powietrza z dnia na dzie\IeC {\'n}\nobreakspace {}w\nobreakspace {}{Tatrach}}{7}{Item.8}
 \contentsline {section}{Wp\IeC {\l }yw warunk\IeC {\'o}w synoptycznych na wielko\IeC {\'s}\IeC {\'c} i rodzaj zachmurzenia na Svalbardzie\nobreakspace {}w\nobreakspace {}letnim sezonie badawczym 2016}{8}{Item.9}
 \contentsline {section}{Zjawisko miejskiej wyspy ciep\IeC {\l }a i jeziora ch\IeC {\l }odu na obszarze Poznania}{9}{Item.12}
@@ -20,8 +20,8 @@
 \contentsline {section}{Aktywno\IeC {\'s}\IeC {\'c} fotosyntezy Miskanta olbrzymiego \emph {(Miscanthus sinensis gigantea)}\nobreakspace {}w\nobreakspace {}okresie wegetacji}{18}{Item.24}
 \contentsline {section}{{Klimatologiczne aspekty burz w\nobreakspace {}Europie -- por\IeC {\'o}wnanie wynik\IeC {\'o}w sieci detekcji wy\IeC {\l }adowa\IeC {\'n} atmosferycznych, obserwacji naziemnych, reanaliz, radiosonda\IeC {\.z}y oraz raport\IeC {\'o}w ESWD (1979-2017)}}{19}{Item.25}
 \contentsline {section}{Indeksy bioklimatyczne\nobreakspace {}w\nobreakspace {}Karkonoszach Zachodnich\nobreakspace {}w\nobreakspace {}latach 1961-2015}{20}{Item.26}
-\contentsline {section}{Charakterystyka odbiciowo\IeC {\'s}ci\nobreakspace {}w\nobreakspace {}obr\IeC {\k e}bie uk\IeC {\l }adu MCC 11 sierpnia 2017 r.}{21}{Item.27}
-\contentsline {section}{Zmienno\IeC {\'s}\IeC {\'c} opad\IeC {\'o}w atmosferycznych\nobreakspace {}w\nobreakspace {}okresie 1961-2015\nobreakspace {}w\nobreakspace {}centralnej cz\IeC {\k e}\IeC {\'s}ci Polski}{22}{Item.30}
+\contentsline {section}{Charakterystyka odbiciowo\IeC {\'s}ci\nobreakspace {}w\nobreakspace {}obr\IeC {\k e}bie uk\IeC {\l }adu MCC 11\nobreakspace {}sierpnia 2017 r.}{21}{Item.27}
+\contentsline {section}{Zmienno\IeC {\'s}\IeC {\'c} opad\IeC {\'o}w atmosferycznych\nobreakspace {}w\nobreakspace {}okresie 1961--2015 w\nobreakspace {}centralnej cz\IeC {\k e}\IeC {\'s}ci Polski}{22}{Item.30}
 \contentsline {section}{Szko\IeC {\l }a, uniwersytet\nobreakspace {}i\nobreakspace {}biznes jako w\IeC {\k e}z\IeC {\l }y sieci ucz\IeC {\k a}cej si\IeC {\k e}. Konstrukcja przyszkolnego ogr\IeC {\'o}dka meteorologicznego\nobreakspace {}w\nobreakspace {}ramach projektu "\IeC {\L }ejery! Co to za pogoda?!"}{23}{Item.31}
 \contentsline {section}{Bilans radiacyjny obszar\IeC {\'o}w bagiennych -- badania pilota\IeC {\.z}owe w\nobreakspace {}Biebrza\IeC {\'n}skim Parku Narodowym}{24}{Item.32}
 \contentsline {section}{Miejska wyspa ciep\IeC {\l }a\nobreakspace {}w\nobreakspace {}\IeC {\L }odzi podczas fali ch\IeC {\l }odu zim\IeC {\k a} 2018 r.}{25}{Item.33}
